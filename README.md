@@ -102,6 +102,8 @@ controller.A.onEvent(ControllerButtonEvent.Pressed, function() {
 });
 ```
 
+https://user-images.githubusercontent.com/78234184/220450882-98a03369-e5c2-46b4-a7e2-5253b430e4c5.mp4
+
 ### Rotating Shoot
 
 ```ts
@@ -268,6 +270,8 @@ spawnEnemy()
 shootCursor_render()
 controller.moveSprite(shootCursor)
 ```
+
+https://user-images.githubusercontent.com/78234184/220450984-2715353f-76ef-40ca-ba20-ded65daf6564.mp4
 
 ## Use as Extension
 
