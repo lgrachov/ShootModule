@@ -273,14 +273,14 @@ controller.moveSprite(shootCursor)
 
 https://user-images.githubusercontent.com/78234184/220450984-2715353f-76ef-40ca-ba20-ded65daf6564.mp4
 
-## Use as Extension
+## ~~Use as Extension~~
 
-This repository can be added as an **extension** in MakeCode.
+~~This repository can be added as an **extension** in MakeCode.~~
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/lgrachov/shootmodule** and import
+~~* open [https://arcade.makecode.com/](https://arcade.makecode.com/)~~
+~~* click on **New Project**~~
+~~* click on **Extensions** under the gearwheel menu~~
+~~* search for **https://github.com/lgrachov/shootmodule** and import~~
 
 ## Edit this project ![Build status badge](https://github.com/lgrachov/shootmodule/workflows/MakeCode/badge.svg)
 
